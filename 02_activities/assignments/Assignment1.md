@@ -22,6 +22,7 @@ If you encounter any difficulties or have questions, please don't hesitate to re
 
 *** 
 
+
 ## Section 1:
 You can start this section following *session 1*.
 
@@ -97,6 +98,7 @@ A logical data model must contain:
 - relationship type
 
 Please do not pick the exact same tables that I have already diagrammed. For example, you shouldn't diagram the relationship between `product` and `product_category`, but you could diagram `product` and `customer_purchases`.
+<img width="493" height="299" alt="image" src="https://github.com/user-attachments/assets/774aa71c-6d57-40cc-8d4a-68c957b88346" />
 
 **HINTS**:
 - You will need to use the Browse Data tab in the main window to figure out the relationship types.
